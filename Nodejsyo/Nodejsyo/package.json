@@ -1,0 +1,15 @@
+{
+  "name": "Nodejsyo",
+  "version": "0.0.0",
+  "description": "Nodejsyo",
+  "main": "app.js",
+  "author": {
+    "name": "sujacob",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
